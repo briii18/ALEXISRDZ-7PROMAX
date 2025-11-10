@@ -1,21 +1,21 @@
 
-# ¡Hola! 👋 Soy ALEXIS
+# ¡Hola! 👋 Somos ALEXIS Y TOMI
 
-> *Apasionado por los videojuegos y la música, con ganas de aprender más sobre GitHub y el desarrollo de software.*
+> *Apasionados por los videojuegos y la música, con ganas de aprender más sobre GitHub y el desarrollo de software.*
 
-Soy **ALEXIS**, una persona con **poca experiencia en el ámbito de GitHub**, pero con muchas ganas de aprender, mejorar y seguir creciendo en el mundo de la tecnología. Me gusta explorar cómo funcionan las herramientas, crear cosas nuevas y compartir lo que aprendo.
-
----
-
-## 🎮 Sobre mí
-
-* 💻 Estoy comenzando a aprender sobre **GitHub**, control de versiones y colaboración en proyectos.
-* 🎧 Me encanta la **música**: escuchar diferentes géneros mientras trabajo o programo me motiva.
-* 🕹️ Los **videojuegos** son una de mis mayores pasiones: me inspiran a entender cómo se crean y cómo mejorar su rendimiento o jugabilidad.
+Somos **ALEXIS Y TOMI**, unas personas con **poca experiencia en el ámbito de GitHub**, pero con muchas ganas de aprender, mejorar y seguir creciendo en el mundo de la tecnología. Nos gustaria explorar cómo funcionan las herramientas, crear cosas nuevas y compartir lo que aprendemos.
 
 ---
 
-## 🌱 Lo que estoy aprendiendo
+## 🎮 Sobre nosotros 
+
+* 💻 Estamos comenzando a aprender sobre **GitHub**, control de versiones y colaboración en proyectos.
+* 🎧 nos encanta la **música**: escuchar diferentes géneros mientras trabajamos o programamos nos  motiva.
+* 🕹️ Los **videojuegos** son una de nuestras mayores pasiones: nos inspiran a entender cómo se crean y cómo mejorar su rendimiento o jugabilidad.
+
+---
+
+## 🌱 Lo que estamos aprendiendo
 
 * Cómo usar **Git** y **GitHub** de manera profesional.
 
@@ -24,6 +24,7 @@ Soy **ALEXIS**, una persona con **poca experiencia en el ámbito de GitHub**, pe
 ## 📫 Contáctame
 
 * Email: `alexis17promax@gmail.com` 
+* Email: `tomasS25ultra@gmail.com` 
 
 ---
 
@@ -35,7 +36,7 @@ Soy **ALEXIS**, una persona con **poca experiencia en el ámbito de GitHub**, pe
 
 ---
 
-¡Gracias por visitar mi perfil! 😄
+¡Gracias por visitar nuestro perfil! 😄
 ### Cambios desde Visual Studio Code en la nueva rama
 
 ### Cambios desde Visual Studio Code en la nueva rama
