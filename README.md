@@ -7,7 +7,7 @@ Somos **ALEXIS Y TOMI**, unas personas con **poca experiencia en el ámbito de G
 
 ---
 
-## 🎮 Sobre nosotros 
+## 🎮 Sobre nosotros ## 
 
 * 💻 Estamos comenzando a aprender sobre **GitHub**, control de versiones y colaboración en proyectos.
 * 🎧 nos encanta la **música**: escuchar diferentes géneros mientras trabajamos o programamos nos  motiva.
@@ -15,13 +15,13 @@ Somos **ALEXIS Y TOMI**, unas personas con **poca experiencia en el ámbito de G
 
 ---
 
-## 🌱 Lo que estamos aprendiendo
+## 🌱 Lo que estamos aprendiendo ## 
 
 * Cómo usar **Git** y **GitHub** de manera profesional.
 
 ---
 
-## 📫 Contáctame
+## 📫 Contáctame ## 
 
 * Email: `alexis17promax@gmail.com` 
 * Email: `tomasS25ultra@gmail.com` 
