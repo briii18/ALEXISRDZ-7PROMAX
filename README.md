@@ -41,8 +41,6 @@ Somos **ALEXIS Y TOMI**, unas personas con **poca experiencia en el ámbito de G
 
 ### Cambios desde Visual Studio Code en la nueva rama
 
-
-
 <!--
 **ALEXISRDZ-7PROMAX/ALEXISRDZ-7PROMAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
